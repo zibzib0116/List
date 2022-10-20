@@ -20,7 +20,7 @@ namespace ConsoleApp2
 
            
             Console.ReadKey();
-
+            HashSet<int> unical = new HashSet<int>();
             
         }
     }
